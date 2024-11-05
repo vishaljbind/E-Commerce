@@ -2,6 +2,8 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
+**[Deployed Link](https://e-commerce-q2iz.onrender.com/)**
+
 About This Project:
 
 - 🚀 Project Setup
